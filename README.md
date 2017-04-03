@@ -12,8 +12,11 @@ In the deck textbox, enter the decklist in the following format, one card per li
 Enter test cases into the top textbox. Begin each test case with a line beginning with `#`. The following parameters can be used on this line as well:
 
 **name**: The name of the test case. Defaults to `Case <Test Case Number>`
+
 **runs**: The number of times to run this test case. A higher number will give higher accuracy. Defaults to 1000.
+
 **hand**: The starting hand size to use. Defaults to 7.
+
 **mullto**: The hand size to mulligan down to. The program will mulligan until it hits an acceptable hand, or until this hand size is reached. Defaults to 7.
 
 Follow this line by a description of acceptable hands for this test case, formatted the following way:
