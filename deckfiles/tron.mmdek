@@ -1,0 +1,28 @@
+v1
+#name:Active Tron,runs:10000,hand:7,mullto:6
+{tower:1+;plant:1+;mine:1+;payload:1+;tron:1+;find:2+}
+OR
+{tower:1+;plant:1+;mine:1+;payload:1+;tron:2+;find:1+}
+
+~DECK~
+4{tower;land;tron}Urza's Tower
+4{plant;land;tron}Urza's Power Plant
+4{mine;land;tron}Urza's Mine
+1{gland;land}Snow-Covered Forest
+1{cland;land}Sanctum of Ugin
+4{gland;rland;land}Grove of the Burnwillows
+1{cland;land}Ghost Quarter
+2{dead}Relic of Progenitus
+3{payload}Oblivion Stone
+4{tower;plant;mine;find}Expedition Map
+4{dead}Chromatic Star
+4{dead}Chromatic Sphere
+1{dead}Lightning Bolt
+4{tower;plant;mine;find}Sylvan Scrying
+3{dead}Firespout
+4{dead}Ancient Stirrings
+3{payload}Wurmcoil Engine
+2{payload}World Breaker
+1{payload}Ulamog, the Ceaseless Hunger
+2{payload}Ugin, the Spirit Dragon
+4{payload}Karn Liberated
